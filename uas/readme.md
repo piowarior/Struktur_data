@@ -56,6 +56,9 @@ Manfaat dari sistem ini meliputi efisiensi dalam pengelolaan buku dan pengguna, 
 - C++ Compiler (misalnya, g++)
 - MySQL atau MariaDB
 
+## CATATAN !!!!
+- folder database tidak di push karna github tidak bisa melakukan push dengan file besar jadi jika ingin mendapatkan folder itu . ketika clone folder saya lakukan docker-compose up -d --build
+
 ### Langkah-langkah Instalasi
 1. Clone repositori ini.
    ```sh
