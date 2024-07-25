@@ -18,7 +18,7 @@ Manfaat dari sistem ini meliputi efisiensi dalam pengelolaan buku dan pengguna, 
 - **Mengedit Buku:** Admin dapat mengedit informasi buku yang sudah ada.
 - **Menghapus Buku:** Admin dapat menghapus buku dari sistem.
 - **Mengelola Pengguna:** Admin dapat menambahkan, mengedit, dan menghapus pengguna serta melihat daftar pengguna.
-- **melihat semua Pengguna:** admin dapat melihat siapa saja yang registrasi dalam program kita.
+- **Melihat semua Pengguna:** admin dapat melihat siapa saja yang registrasi dalam program kita.
 
 ### User
 - **Melihat Daftar Buku:** Pengguna dapat melihat daftar buku yang tersedia di perpustakaan.
