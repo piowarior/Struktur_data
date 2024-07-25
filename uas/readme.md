@@ -14,9 +14,11 @@ Manfaat dari sistem ini meliputi efisiensi dalam pengelolaan buku dan pengguna, 
 
 ### Admin
 - **Menambahkan Buku:** Admin dapat menambahkan buku baru dengan detail seperti judul, penulis, penerbit, tahun terbit, dan kategori.
+- **Melihat Buku:** Admin dapat Melihat semua buku yang sudah di daftarkan.
 - **Mengedit Buku:** Admin dapat mengedit informasi buku yang sudah ada.
 - **Menghapus Buku:** Admin dapat menghapus buku dari sistem.
 - **Mengelola Pengguna:** Admin dapat menambahkan, mengedit, dan menghapus pengguna serta melihat daftar pengguna.
+- **melihat semua Pengguna:** admin dapat melihat siapa saja yang registrasi dalam program kita.
 
 ### User
 - **Melihat Daftar Buku:** Pengguna dapat melihat daftar buku yang tersedia di perpustakaan.
@@ -39,7 +41,7 @@ Manfaat dari sistem ini meliputi efisiensi dalam pengelolaan buku dan pengguna, 
 - **Nama:** Nama pengguna.
 - **Email:** Alamat email pengguna.
 - **Kata Sandi:** Kata sandi untuk mengakses sistem.
-- **Peran:** Peran pengguna dalam sistem (User atau Admin).
+
 
 ### Tabel Peminjaman
 - **ID Peminjaman (PRIMARY KEY):** Identifikasi unik untuk setiap transaksi peminjaman.
